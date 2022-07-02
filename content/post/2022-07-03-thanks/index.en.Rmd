@@ -1,0 +1,18 @@
+---
+title: 'Thanks '
+author: Tan-Duc
+date: '2022-07-03'
+slug: thanks
+categories:
+  - toán học
+tags:
+  - giải tích
+backtotop: no
+toc: no
+---
+
+# Title
+
+123456
+
+## Contents
